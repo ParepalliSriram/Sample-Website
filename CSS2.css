@@ -1,0 +1,160 @@
+*
+{
+	font-family: Calibri;
+}
+/*body
+{
+	background-image: url('Lighthouse.jpg');
+	margin-right: -3px;
+}*/
+.div
+{
+	height: 700px;
+	width:  1500px;
+	background-color: white;
+}
+.div1
+{
+	height: 120px;
+	width: 1500px;
+	background-color: orange;
+}
+.div2
+{
+	height: 580px;
+	width: 1500px;
+}
+.div2_1
+{
+	height: 600px;
+	width: 120px;
+	float: left ;
+	background-color: white;
+}
+.div2_1_1
+{
+	height: 200px;
+	width: 120px;
+	background-color: white;
+}
+.div2_1_1_1
+{
+	height: 50px;
+	width: 120px;
+	background-color:#FFD580 ;
+}
+.div2_1_1_2
+{
+	height: 50px;
+	width: 120px;
+	background-color: #FFD580;
+}
+.div2_1_1_3
+{
+	height: 50px;
+	width: 120px;
+	background-color: #FFD580;
+}
+.div2_1_1_4
+{
+	height: 50px;
+	width: 120px;
+	background-color: #FFD580;
+}
+
+.div2_1_2
+{
+	height: 380px;
+	width: 120px;
+	background-color: white;
+}
+.div2_2
+{
+	height: 600px;
+	width: 1380px;
+	float: right;
+}
+#div_hove:hover
+{
+	color: blue;
+	background-color: lightgreen;
+}
+.tex_hove:hover
+{
+	transform: scale(1.2)
+}
+.div1_1
+{
+	position: absolute;
+	left: 1300px;
+	top: 50px;
+	font-size: 20px;
+	color: white;
+	background-color: #046;
+	border: 2px solid black;
+	padding: 0px 12px 0px 12px;
+/*	border-radius: 5px;*/
+}
+.div1_1_1_1
+{
+	position: absolute;
+	left: 1390px;
+	top: 50px;
+	font-size: 20px;
+	color: white;
+	background-color: #046;
+	border: 2px solid black;
+	padding: 0px 10px 0px 10px;
+/*	border-radius: 5px;*/
+}
+.div1_1:hover
+{
+	color: white;
+	background-color: black;
+	border-color: white;
+}
+.foot_div
+{
+	height: 120px;
+	width: 1500px;
+	float: left;
+	background-color: #FFD580;
+	margin-top: -20px;
+}
+.log_div:hover
+{
+	background-color: lightblue;
+	color: white;
+	transform: scale(1.1)
+}
+.List_items
+{
+	margin-top: -10px;
+	margin-left: 10px;
+
+}
+/*Home page with para and card display
+about 4 card
+services List that you know in htmle and details
+contact contact and iframe_ tag with map_*/
+
+
+
+/*Header Tags - (h1, h2, .. , h6)
+h1 delimits the highest-level heading, h2 the next level down (sub-section)
+Table Tag - (Thead, Tbody, Borders, rows, columns, rowspan, colspan)
+A table is an arrangement of columns and rows that organizes and positions data or images.
+Paragraph Tag - (Content, break..)
+A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
+Form Tag - (Input types(text, button, checkbox...), Placeholeder)
+A webform, web form or HTML form on a web page allows a user to enter data that is sent to a server for processing.
+Anchor Tag - (Linking of pages, Link item type)
+An anchor element is called an anchor because web designers can use it to "anchor" a URL to some text on a web page.
+Iframe Tag - (Adding Youtube videos, Google Maps..)
+An inline frame is used to embed another document within the current HTML document. 
+Marquee Tag - (Running text)
+The marquee tag is a non-standard HTML element which causes text to scroll up, down, left or right automatically.
+Formatting Tag - (b-tag, u-tag, i-tag, mark-tag, em-tag..)
+Formatting elements were designed to display special types of text
+Div Tag - (Dimensions, coloring, splitting..)
+The div tag is generic HTML elements that group together related parts of a web page serving different functions.*/
